@@ -1,2 +1,2 @@
 # Masterschool-
-This contains all my projects which I am practicing on masterschool
+Welcome to my GitHub repository! This is where I share my data analysis projects from MASTERSCHOOL, which aim to uncover insights and answer questions through the use of various tools and techniques. Each project contains a detailed explanation of the methodology used, the data sources, and the key findings. If you have any questions or feedback, please don't hesitate to contact me. Thanks for visiting!
